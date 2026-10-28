@@ -1,4 +1,5 @@
 import pytest
+
 from maths.binomial_distribution import binomial_distribution
 
 
