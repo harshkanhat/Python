@@ -1,7 +1,8 @@
 """For more information about the Binomial Distribution -
 https://en.wikipedia.org/wiki/Binomial_distribution"""
 
-from math import comb 
+from math import comb
+
 
 def binomial_distribution(successes: int, trials: int, prob: float) -> float:
     """
